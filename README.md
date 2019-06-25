@@ -9,3 +9,9 @@ For more information about this online course can be found here: https://eu.udac
   1. Project: Predict Boston House Pricing
   2. Project: Finding Donors
   3. Project: Customer Segmentation
+  
+ 
+ ## 2. Advanced Machine Learning:
+  1. Project: Dog Breed Recognition Project
+  2. Project: Teach a Quadcopter How to Fly
+  3. Project: Capstone Project / 
