@@ -8,4 +8,6 @@ Statoil, an international energy company operating worldwide, has worked closely
 
 In this competition, you’re challenged to build an algorithm that automatically identifies if a remotely sensed target is a ship or iceberg. Improvements made will help drive the costs down for maintaining safe working conditions.
 
-
+# Available Data
+The data for this project can be downloaded via the corresponding Kaggle challenge:
+https://www.kaggle.com/c/statoil-iceberg-classifier-challenge/data
