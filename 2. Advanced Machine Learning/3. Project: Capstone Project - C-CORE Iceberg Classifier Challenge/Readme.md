@@ -11,3 +11,6 @@ In this competition, you’re challenged to build an algorithm that automaticall
 # Data
 The data for this project can be downloaded via the corresponding Kaggle challenge:
 https://www.kaggle.com/c/statoil-iceberg-classifier-challenge/data
+
+# Data
+Before running the jupyter notebook file, please make sure to download the train and test data from Kaggle and place both .json files in the main folder.
